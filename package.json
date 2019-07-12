@@ -26,6 +26,7 @@
   "homepage": "https://github.com/SlumberParty/Express-Routes#readme",
   "devDependencies": {
     "eslint": "^6.0.1",
+    "express": "^4.17.1",
     "jest": "^24.8.0",
     "nodemon": "^1.19.1",
     "supertest": "^4.0.2"
